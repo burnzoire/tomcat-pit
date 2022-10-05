@@ -12,4 +12,4 @@ Some panels will require parts to be 3D printed, such as knobs and dials. Import
 
 
 ## License
-The design files (`.dxf` and `.stl`) of this project itself is licensed under the Creative Commons Attribution 4.0 International license, and the arduino source code is licensed under the MIT license.
+The design files and supporting source code is covered by the CERN Open Hardware Licence Version 2 - Weakly Reciprocal license.
