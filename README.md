@@ -10,6 +10,8 @@ These are for laser cutting and engraving. They will usually contain no layer in
 ## stl
 Some panels will require parts to be 3D printed, such as knobs and dials. Import into your preferred slicer. YMMV.
 
+## Acknowledgements
+The approach I've taken with these panels was heavily inspired by the great work at [The Warthog Project](https://thewarthogproject.com/). 
 
 ## License
-The design files and supporting source code is covered by the CERN Open Hardware Licence Version 2 - Weakly Reciprocal license.
+The design files and supporting source code is covered by the CERN Open Hardware Licence Version 2 - Permissive license.
