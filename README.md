@@ -2,7 +2,7 @@
 Files related to building a 1:1 scale F-14B Tomcat simpit
 
 ## arduino
-Contains the `.ino` file required compile and upload to the appropriate arduino. See the [hardware list](hardware.md) for more information.
+Contains the `.ino` file required compile and upload to the appropriate arduino. See the [panels section](panels.md) for more information.
 
 ## dxf
 These are for laser cutting and engraving. They will usually contain no layer info so you will need to configure that yourself in the laser program of your choosing. It should be fairly obvious which lines are to be cut vs engraved (with fill). I may introduce a guide for this at some point based on k40 settings.
